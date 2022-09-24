@@ -26,3 +26,8 @@ function x (int a, int b){
 ```
 
 ### Arquivos relacionados:
+- [Documentação (Gramática, estados, reduções e tabela)](docs)
+- [Formulário principal](Compilador/FormMain.cs)
+- [Diretório analizador léxico](Compilador/Lexico)
+- [Diretório analisador sintático](Compilador/Sintatico/Ascendente/SLR)
+- [Arquivo executável](Compilador/bin/Debug/Compilador.exe)
